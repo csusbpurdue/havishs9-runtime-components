@@ -5,7 +5,7 @@ any new machine quickly.
 
 ## Install
 
-    git clone git@github.com:{username}/runtime-components.git ~/runtime_components
+    git clone git@github.com:{havishs9}/runtime-components.git ~/runtime_components
     cd ~/runtime_components
     ./install.sh
 
